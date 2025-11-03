@@ -9,3 +9,6 @@ streamlit run app.py
 
 # seo-content-quality
  ada8f410a018180986643e520a05b79beec0cfdb
+
+## 🌐 Deployed Streamlit App
+[Click here to open the app](https://seo-content-quality-j8xrqmiuga5qtvef5yyrft.streamlit.app/)
