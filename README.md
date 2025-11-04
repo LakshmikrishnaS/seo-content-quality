@@ -2,6 +2,8 @@
 # SEO Content Quality & Duplicate Detector
 
 A Streamlit app that analyzes webpage SEO content quality using NLP features and a trained ML model.
+Note: All code was developed in Google Colab and exported as a Jupyter Notebook (.ipynb) for submission.
+
 
 ## Run locally
 pip install -r requirements.txt
